@@ -5,3 +5,5 @@ logo: /assets/img/logo.svg
 title: /dev/null talks
 description: El sitio donde van las cosas que no van a ningún sitio
 show_downloads: false
+github:
+- is_project_page: false
