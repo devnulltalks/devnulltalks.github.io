@@ -1,3 +1,5 @@
+# Disposiciones generales sobre nuestros eventos
+
 ## Formato de nuestros eventos
 
 El formato de nuestros eventos seguirá, con carácter general, las siguientes pautas:
