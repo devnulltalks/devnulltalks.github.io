@@ -1,7 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: /dev/null talks
 logo: /assets/img/logo.svg
 description: El sitio donde van las cosas que no van a ningún sitio
 show_downloads: false
