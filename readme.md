@@ -1,4 +1,4 @@
-## Sobre /dev/null talks
+# Sobre /dev/null talks
 
 Nacemos en Sevilla como una nueva comunidad de divulgación técnica en mayo de 2024. Pretendemos ser una comunidad inclusiva y acogedora que valore las voces que a menudo no suelen ser escuchadas en la industria de la tecnología.
 
