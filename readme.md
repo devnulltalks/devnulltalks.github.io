@@ -8,11 +8,9 @@ Dicho de otro modo, y fieles a nuestro nombre, queremos ser “el sitio donde va
 
 ## Equipo organizativo
 
-Nuestro equipo organizativo está formado por entusiastas individuales, por personas particulares, sin ningún tipo de empresa o patrocinador detrás, que dedicamos nuestro tiempo libre a este proyecto impulsados por nuestra pasión por fomentar el intercambio de ideas. Este equipo, actualmente, está formado dos personas:
+Nuestro equipo organizativo está formado por entusiastas individuales, por personas particulares, sin ningún tipo de empresa o patrocinador detrás, que dedicamos nuestro tiempo libre a este proyecto impulsados por nuestra pasión por fomentar el intercambio de ideas. Este equipo, actualmente, está formado una persona, pero abierto a sumar un organizador más:
 
-- [Daniel Vidal](https://www.linkedin.com/in/danielvidallopez/): profesional del sector IT con más de 20 años de experiencia en el sector de las telecomunicaciones y actualmente profesor de FP en el IES Martínez Montañés de Sevilla.
-
-- [Luis Mesa](https://www.linkedin.com/in/mesa/): profesional del desarrollo de software con algo más de una década de experiencia, siendo el trabajo con datos y proveedores cloud su punto más fuerte, y también con vocación docente. Actualmente es Cloud Engineer en ACKStorm.
+- [Nicolás Palumbo](https://www.linkedin.com/in/nicol%C3%A1s-palumbo-9372615/): Trabajando en tecnología en startups y corporaciones en varios países en forma profesional desde 2007.
 
 Si en algún momento quieres involucrarte y formar parte de nuestro equipo, de forma permanente o esporádica, pero siempre de manera honesta y desinteresada, lo podemos hablar.
 
